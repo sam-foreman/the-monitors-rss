@@ -3,8 +3,8 @@
 <title>
 <![CDATA[ The Monitors Practices ]]>
 </title>
-<link>https://rss.com/podcasts/monitorsbandsjpractice</link>
-<atom:link href="https://media.rss.com/monitorsbandsjpractice/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://github.com/sam-foreman/the-monitors-rss</link>
+<atom:link href="https://raw.githubusercontent.com/sam-foreman/the-monitors-rss/main/the-monitors-practices.xml" rel="self" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://hub.livewire.io/"/>
 <description>
 <![CDATA[ N/A ]]>
@@ -19,7 +19,7 @@
 <image>
 <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
 <title>The Monitors Practices</title>
-<link>https://rss.com/podcasts/monitorsbandsjpractice</link>
+<link>https://github.com/sam-foreman/the-monitors-rss</link>
 </image>
 <itunes:summary>
 <![CDATA[ N/A ]]>
@@ -44,8 +44,8 @@
 <description>
 <![CDATA[ <ol><li><p>Apparition Bop (Take 1)</p></li><li><p>Apparition Bop (Take 2)</p></li><li><p>Jungle Jam </p></li><li><p>The Answer (False Starts)</p></li><li><p>The Lengths (Black Keys)</p></li><li><p>The Answer (Take 1)</p></li><li><p>Blues Rock Jam</p></li><li><p>Working on The Answer</p></li><li><p>American Dream (Take 1)</p></li><li><p>American Dream (Take 2)</p></li></ol> ]]>
 </description>
-<link>https://rss.com/podcasts/monitorsbandsjpractice/388565</link>
-<enclosure url="https://media.rss.com/monitorsbandsjpractice/20220210_090203_236777124892c2c108be423fe994420c.mp3" length="63797230" type="audio/mpeg"/>
+<link>https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
+<enclosure url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" length="63797230" type="audio/mpeg"/>
 <guid isPermaLink="false">a4b94c37-e08a-42c4-b3f2-025c840c5a33</guid>
 <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
 <itunes:duration>2659</itunes:duration>
