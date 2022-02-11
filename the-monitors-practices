@@ -13,14 +13,13 @@
       <link>https://github.com/sam-foreman/the-monitors-rss</link>
       <width>400</width>
       <height>267</height>
-    </image>    
+    </image>
     <item>
         <title>February 9th, 2022</title>
-        <link>https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5</link>
-        <description>February 9th, 2022</description>
+        <link>https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
+        <description>February 9th, 2022 practice</description>
         <guid isPermaLink="false">20220209</guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5" fileSize="1" type="audio/mpeg"/>
-        <enclosure url="https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5" length="1" type="audio/mpeg"/>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
       </item>
   </channel>
 </rss>
