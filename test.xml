@@ -1,0 +1,16 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+  <title>Idle Thumbs</title>
+  <link>http://www.idlethumbs.net/idlethumbs</link>
+  <language>en-us</language>
+  <description>Idle Thumbs is a vi.</description>
+  <item>
+    <link>https://www.idlethumbs.net/idlethumbs/episodes/building-bridges-at-pax-east-2018</link>
+    <title>Idle Thumbs 320: Building Bridges at PAX East 2018</title>
+    <description>A</description>
+    <enclosure url="http://feeds.soundcloud.com/stream/447158415-idlethumbs-idle-thumbs-building-bridges-at-pax-east-2018.mp3" length="59775780" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://feeds.soundcloud.com/stream/447158415-idlethumbs-idle-thumbs-building-bridges-at-pax-east-2018.mp3</guid>
+    <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+  </item>
+  </channel>
+</rss>
