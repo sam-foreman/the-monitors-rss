@@ -5,24 +5,30 @@
     <description>Rockin out!</description>
     <link>https://github.com/sam-foreman/the-monitors-rss</link>
     <copyright>2022 Sam Foreman</copyright>
+    <language>en-us</language>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://github.com/sam-foreman/the-monitors-rss" rel="self" type="application/rss+xml"/>
     <image>
       <title>The Monitors Practices</title>
-      <url>https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA</url>
+      <url>https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb</url>
       <link>https://github.com/sam-foreman/the-monitors-rss</link>
-      <width>800</width>
-      <height>444</height>
-    </image>      
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA"/>
+      <width>400</width>
+      <height>267</height>
+    </image>    
     <item>
         <title>February 9th, 2022</title>
-        <link>https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
-        <description>
-          1. Apparition Bop (Take 1)<br />2. Apparition Bop (Take 2)<br />3. Jungle Jam<br />4. The Answer (False Starts)<br />5. The Lengths (Black Keys)<br />6. The Answer (Take 1)<br />7. Blues Rock Jam<br />8. Working on the Answer<br />9. American Dream (Take 1)<br />10. American Dream (Take 2)<br />
-        </description>
-        <pubDate>Thu, 10 Feb 2022 15:05:00 PST</pubDate>
-        <guid isPermaLink="false">02092022</guid>
-        <enclosure url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" length="1" type="audio/mpeg"/>
+        <link>https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5</link>
+        <description>February 9th, 2022</description>
+        <guid isPermaLink="false">20220209</guid>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5" fileSize="1" type="audio/mpeg"/>
+        <enclosure url="https://drive.google.com/uc?export=download&id=1oaQ_IdQWC2yMQ1p0f00ahnN_d8er30G5" length="1" type="audio/mpeg"/>
+      </item>
+    <item>
+      <title>October 28th, 2021></title>
+      <link>https://drive.google.com/uc?export=download&id=</link>
+      <description>October 28th, 2021></description>
+      <guid isPermaLink="false">20211028</guid>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=" fileSize="1" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=download&id=" length="1" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
