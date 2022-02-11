@@ -21,5 +21,12 @@
         <guid isPermaLink="false">20220209</guid>
         <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
       </item>
+      <item>
+        <title>October 28th, 2021></title>
+        <link>https://drive.google.com/uc?export=download&id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD></link>
+        <description>October 28th, 2021 practice></description>
+        <guid isPermaLink="false">20211028></guid>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" fileSize="1" type="audio/mpeg"/>
+      </item>
   </channel>
 </rss>
