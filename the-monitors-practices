@@ -27,7 +27,7 @@
       <height>144</height>
     </image>
     <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2022 Sam Foreman</media:copyright> 
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
     <item>
         <title>February 9th, 2022</title>
         <link>https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
