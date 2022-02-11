@@ -7,7 +7,7 @@
     <copyright>2022 Sam Foreman</copyright>
     <language>en-us</language>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://github.com/sam-foreman/the-monitors-rss" rel="self" type="application/rss+xml"/>
-    <itunes:image href="https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
     <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out</itunes:subtitle>
     <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
     <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out</itunes:summary>
@@ -37,10 +37,10 @@
         <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
         <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
         <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"></itunes:duration>
-        <itunes:image href="https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
+        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
         <pubDate>Thu, 10 Feb 2022 14:05:00 PST</pubDate>
         <guid isPermaLink="false">20220209</guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
       </item>
       <item>
         <title>October 28th, 2021></title>
@@ -52,9 +52,9 @@
         <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
         <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
         <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"></itunes:duration>
-        <itunes:image href="https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
+        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
         <guid isPermaLink="false">20211028></guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" fileSize="1" type="audio/mpeg"/>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" fileSize="1" type="audio/mpeg"/>
       </item>
   </channel>
 </rss>
