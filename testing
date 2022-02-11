@@ -14,17 +14,12 @@
       <width>1678</width>
       <height>444</height>
     </image>      
-        <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2022 Sam Foreman</media:copyright>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA"/>
-        <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Other Games</media:category>
-          <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category>
-          <item>
-        <title>February 09th</title>
+      <item>
+        <title>February 09th, 2022</title>
         <link>https://drive.google.com/export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
         <description>test.</description>
         <pubDate>Thu, 10 Feb 2022 15:05:00 PST</pubDate>
         <guid isPermaLink="false">0000</guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
         <enclosure url="https://drive.google.com/export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" length="1" type="audio/mpeg"/>
       </item>
     </channel>
