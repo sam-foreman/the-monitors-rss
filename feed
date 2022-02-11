@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
     <title>The Monitors Practices</title>
     <description>Rockin out!</description>
     <link>https://github.com/sam-foreman/the-monitors-rss</link>
     <copyright>2022 Sam Foreman</copyright>
     <language>en-us</language>
-          <itunes:image href="https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA" />
-            <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out!</itunes:subtitle>
-    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
-    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out!</itunes:summary>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://github.com/sam-foreman/the-monitors-rss" rel="self" type="application/rss+xml"/>
-    <itunes:owner xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <itunes:name>Sam Foreman</itunes:name>
-      <itunes:email>samforeman.music@gmail.com</itunes:email>
-    </itunes:owner>
-                <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
-        <itunes:category text="Video Games"/>
-      </itunes:category>
-                      <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Technology">
-        <itunes:category text="Gadgets"/>
-      </itunes:category>
-                      <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
-        <itunes:category text="Other Games"/>
-      </itunes:category>
-              <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-            <image>
-                  <title>The Monitors Practices</title>
-                  <url>https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA</url>
-                  <link>https://github.com/sam-foreman/the-monitors-rss</link>
-                  <width>1678</width>
-                  <height>444</height>
-            </image>
-        <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Monitors</itunes:keywords>
+    <image>
+      <title>The Monitors Practices</title>
+      <url>https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA</url>
+      <link>https://github.com/sam-foreman/the-monitors-rss</link>
+      <width>1678</width>
+      <height>444</height>
+    </image>      
         <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2022 Sam Foreman</media:copyright>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA"/>
         <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Other Games</media:category>
@@ -43,15 +24,8 @@
         <description>test.</description>
         <pubDate>Thu, 10 Feb 2022 15:05:00 PST</pubDate>
         <guid isPermaLink="false">0000</guid>
-        <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">test.</itunes:subtitle>
-        <itunes:summary>test.</itunes:summary>
-        <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Monitors</itunes:author>
-        <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"></itunes:duration>
-        <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Monitors</itunes:keywords>
-                <itunes:image href="https://drive.google.com/uc?export=download&id=1tY0k53RermuWQuM41KXa7aaV7D2846cA" />
-                <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1VWLoC5rrYWhDVM4TfWDJTEPV83ve4Ii2" fileSize="1" type="audio/mpeg"/>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&id=1VWLoC5rrYWhDVM4TfWDJTEPV83ve4Ii2" fileSize="1" type="audio/mpeg"/>
         <enclosure url="https://drive.google.com/uc?export=download&id=1VWLoC5rrYWhDVM4TfWDJTEPV83ve4Ii2" length="1" type="audio/mpeg"/>
       </item>
-              </channel>
+    </channel>
 </rss>
