@@ -36,12 +36,13 @@
         <itunes:summary>February 9th, 2022 practice</itunes:summary>
         <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
         <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"></itunes:duration>
+        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">50:00</itunes:duration>
         <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
         <pubDate>Thu, 10 Feb 2022 14:05:00 PST</pubDate>
         <guid isPermaLink="false">20220209</guid>
         <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
-      </item>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" type="audio/mpeg" filesize="1"/>
+    </item>
       <item>
         <title>October 28th, 2021></title>
         <link>https://drive.google.com/uc?export=download&id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD></link>
@@ -51,10 +52,12 @@
         <itunes:summary>October 28th, 2021 practice</itunes:summary>
         <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
         <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"></itunes:duration>
+        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">50:00</itunes:duration>
         <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
         <guid isPermaLink="false">20211028></guid>
         <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" fileSize="1" type="audio/mpeg"/>
-      </item>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" type="audio/mpeg" filesize="1"/>
+
+    </item>
   </channel>
 </rss>
