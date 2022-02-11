@@ -1,63 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>The Monitors Practices</title>
-    <description>Rockin out!</description>
-    <link>https://github.com/sam-foreman/the-monitors-rss</link>
-    <copyright>2022 Sam Foreman</copyright>
-    <language>en-us</language>
-    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://github.com/sam-foreman/the-monitors-rss" rel="self" type="application/rss+xml"/>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
-    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out</itunes:subtitle>
-    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
-    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Rockin out</itunes:summary>
-    <itunes:owner xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <itunes:name>Sam Foreman</itunes:name>
-      <itunes:email>samforeman.music@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
-        <itunes:category text="Video Games"/>
-    </itunes:category>
-    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-    <image>
-      <title>The Monitors Practices</title>
-      <url>https://drive.google.com/uc?export=download&id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb</url>
-      <link>https://github.com/sam-foreman/the-monitors-rss</link>
-      <width>144</width>
-      <height>144</height>
-    </image>
-    <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2022 Sam Foreman</media:copyright> 
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb"/>
-    <item>
-        <title>February 9th, 2022</title>
-        <link>https://drive.google.com/uc?export=download&id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p</link>
-        <description>February 9th, 2022 practice</description>
-        <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">February 9th, 2022 practice</itunes:subtitle>
-        <itunes:summary>February 9th, 2022 practice</itunes:summary>
-        <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
-        <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">50:00</itunes:duration>
-        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
-        <pubDate>Thu, 10 Feb 2022 14:05:00 PST</pubDate>
-        <guid isPermaLink="false">20220209</guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" fileSize="1" type="audio/mpeg"/>
-        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XjnX2UPhk6raCh3ZJ6mVOhGH86cyHW5p" type="audio/mpeg" filesize="1"/>
-    </item>
-      <item>
-        <title>October 28th, 2021></title>
-        <link>https://drive.google.com/uc?export=download&id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD></link>
-        <description>October 28th, 2021 practice></description>
-        <pubDate>Thu, 10 Feb 2022 16:05:00 PST</pubDate>
-        <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">October 28th, 2021 practice</itunes:subtitle>
-        <itunes:summary>October 28th, 2021 practice</itunes:summary>
-        <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sam Foreman</itunes:author>
-        <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
-        <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">50:00</itunes:duration>
-        <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1Ghu4Ps66Y2xkBs8xWpAuZUYM9FDn7hsb" />
-        <guid isPermaLink="false">20211028></guid>
-        <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://drive.google.com/uc?export=download&amp;id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" fileSize="1" type="audio/mpeg"/>
-        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UhlJxBVd-zYyPi94d4WfhaNAqFsCVkWD" type="audio/mpeg" filesize="1"/>
-
-    </item>
-  </channel>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<channel>
+<title>
+<![CDATA[ The Monitors Practices ]]>
+</title>
+<link>https://rss.com/podcasts/monitorsbandsjpractice</link>
+<atom:link href="https://media.rss.com/monitorsbandsjpractice/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link rel="hub" href="https://hub.livewire.io/"/>
+<description>
+<![CDATA[ N/A ]]>
+</description>
+<generator>RSS.com v1.4.8</generator>
+<lastBuildDate>Thu, 10 Feb 2022 22:37:19 GMT</lastBuildDate>
+<language>en</language>
+<copyright>
+<![CDATA[ Sam Foreman 2022 ]]>
+</copyright>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<image>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+<title>The Monitors Practices</title>
+<link>https://rss.com/podcasts/monitorsbandsjpractice</link>
+</image>
+<itunes:summary>
+<![CDATA[ N/A ]]>
+</itunes:summary>
+<podcast:locked owner="samforeman1995@gmail.com">Yes</podcast:locked>
+<itunes:author>Sam Foreman</itunes:author>
+<itunes:owner>
+<itunes:name>Sam Foreman</itunes:name>
+<itunes:email>samforeman1995@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Music"/>
+<item>
+<title>
+<![CDATA[ February 9th, 2022 ]]>
+</title>
+<itunes:title>
+<![CDATA[ February 9th, 2022 ]]>
+</itunes:title>
+<itunes:summary>Apparition Bop (Take 1)Apparition Bop (Take 2)Jungle Jam The Answer (False Starts)The Lengths (Black Keys)The Answer (Take 1)Blues Rock JamWorking on The AnswerAmerican Dream (Take 1)American Dream (Take 2)</itunes:summary>
+<description>
+<![CDATA[ <ol><li><p>Apparition Bop (Take 1)</p></li><li><p>Apparition Bop (Take 2)</p></li><li><p>Jungle Jam </p></li><li><p>The Answer (False Starts)</p></li><li><p>The Lengths (Black Keys)</p></li><li><p>The Answer (Take 1)</p></li><li><p>Blues Rock Jam</p></li><li><p>Working on The Answer</p></li><li><p>American Dream (Take 1)</p></li><li><p>American Dream (Take 2)</p></li></ol> ]]>
+</description>
+<link>https://rss.com/podcasts/monitorsbandsjpractice/388565</link>
+<enclosure url="https://media.rss.com/monitorsbandsjpractice/20220210_090203_236777124892c2c108be423fe994420c.mp3" length="63797230" type="audio/mpeg"/>
+<guid isPermaLink="false">a4b94c37-e08a-42c4-b3f2-025c840c5a33</guid>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<itunes:duration>2659</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>209</itunes:episode>
+<itunes:season>2022</itunes:season>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 10 Feb 2022 22:37:19 GMT</pubDate>
+</item>
+</channel>
 </rss>
